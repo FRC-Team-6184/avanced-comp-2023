@@ -12,3 +12,6 @@ The primary goals for this program are to:
 * Intake
 
 ## Driver station Install steps
+1. Clone repo 
+2. Launch pynetworktables2js.exe
+3. Go to http://127.0.0.1:8888/
