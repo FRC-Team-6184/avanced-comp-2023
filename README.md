@@ -19,22 +19,22 @@ The primary goals for this program are to:
 
 ## CommandsTODO
 * Drivetrain
-- driveVelocityBased (arcade style)
-- driveTank
-- drivePercent (arcade style)
-- translateByMeters
-- driveDisable
-- setControlFieldRelative
-- setControlRobotRelative
+  - driveVelocityBased (arcade style)
+  - driveTank
+  - drivePercent (arcade style)
+  - translateByMeters
+  - driveDisable
+  - setControlFieldRelative
+  - setControlRobotRelative
 * Arms
-- manipulate1
-- manipulate2
-- turretRotateToAngle
-- turretRotateByPercent
-- turretLockRotation (locks rotation to be releative to field unless stops are maxed out )
-- turretUnlockRotation
-- turretReturnToCenter
+  - manipulate1
+  - manipulate2
+  - turretRotateToAngle
+  - turretRotateByPercent
+  - turretLockRotation (locks rotation to be releative to field unless stops are maxed out )
+  - turretUnlockRotation
+  - turretReturnToCenter
 * Intake
-- setIntakeIn
-- setIntakeOff
-- setIntakeOut
+  - setIntakeIn
+  - setIntakeOff
+  - setIntakeOut
