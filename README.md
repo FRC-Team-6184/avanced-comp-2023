@@ -15,3 +15,26 @@ The primary goals for this program are to:
 1. Clone repo 
 2. Launch pynetworktables2js.exe
 3. Go to http://127.0.0.1:8888/
+
+
+## CommandsTODO
+* Drivetrain
+- driveVelocityBased (arcade style)
+- driveTank
+- drivePercent (arcade style)
+- translateByMeters
+- driveDisable
+- setControlFieldRelative
+- setControlRobotRelative
+* Arms
+- manipulate1
+- manipulate2
+- turretRotateToAngle
+- turretRotateByPercent
+- turretLockRotation (locks rotation to be releative to field unless stops are maxed out )
+- turretUnlockRotation
+- turretReturnToCenter
+* Intake
+- setIntakeIn
+- setIntakeOff
+- setIntakeOut
