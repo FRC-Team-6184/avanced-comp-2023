@@ -6,8 +6,8 @@ The primary goals for this program are to:
 
 ## current subsystems and control goals
 * Drivetrain
- * Velocity based joystick control (using IMU)
- * Point to point field coordinate interpolation
+..* Velocity based joystick control (using IMU)
+..* Point to point field coordinate interpolation
 * Turret and arms 
 * Intake
 
