@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "Advanced-comp"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "disabled",
+		"java.import.gradle.enabled": false
+	}
+}
